@@ -1,4 +1,4 @@
-Hello, I'd like to share my codes for those who starts python qt.
+Hello, I'd like to share my codes for those who starts python qt for automation purpose.
 
 <!---
 hskim7639/hskim7639 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
